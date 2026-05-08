@@ -63,7 +63,7 @@ services:
     image: postgres:16
     environment:
       POSTGRES_DB: taskflow_db
-      POSTGRES_USER: postgres
+      POSTGRES_USER: yourusername
       POSTGRES_PASSWORD: yourpassword
 
   api:
