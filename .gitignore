@@ -48,4 +48,3 @@ Thumbs.db
 logs/
 # Secrets - never commit these
 .env
-src/main/resources/application.properties
