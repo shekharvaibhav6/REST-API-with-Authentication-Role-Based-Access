@@ -1,4 +1,4 @@
-# TaskFlow API
+# Sporty API
 
 A scalable REST API built with Java 21 + Spring Boot 3, featuring JWT authentication, role-based access control, and a React frontend.
 
