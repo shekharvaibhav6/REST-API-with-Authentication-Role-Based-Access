@@ -172,4 +172,4 @@ frontend/
 
 ## Scalability Note
 
-See [SCALABILITY.md](./SCALABILITY.md)
+See [SCALABILITY.md](./Scalability.md)
